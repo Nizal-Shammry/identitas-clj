@@ -1,6 +1,6 @@
-# identitas-clj (  identitas clojure library based on the implementation of the identitas-j (Java))
+# identitas-clj 
 
-A set of libraries for coining, manipulating and checking identifiers.
+A set of libraries for coining, manipulating and checking identifiers. More details available at https://arxiv.org/abs/1709.09021
 
 An identifier is short string or integer which is used to represent other
 things, called here the *identifed*, such as database records, terms in an
