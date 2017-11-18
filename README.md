@@ -1,4 +1,4 @@
-# identitas-clj
+# identitas-clj (  identitas clojure library based on the implementation of the identitas-j (Java))
 
 A set of libraries for coining, manipulating and checking identifiers.
 
